@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [LibraryApp](https://github.com/JuanGoDev/LibraryApp)
 
-- 🌱 I’m currently learning **Go, Blazor, Angular, React**
+- 🌱 I’m currently learning **Go, Angular, React**
 
 - 👯 I’m looking to collaborate on **Any Proyect**
 
